@@ -1,4 +1,4 @@
-package com.joeylee.lecture.demo.entity;
+package com.joeylee.lecture.demo.entity.chapter01;
 
 public class Bag {
     //현금

@@ -1,4 +1,4 @@
-package com.joeylee.lecture.demo.entity;
+package com.joeylee.lecture.demo.entity.chapter01;
 
 import java.util.ArrayList;
 import java.util.Arrays;
